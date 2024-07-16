@@ -27,7 +27,7 @@ A simple Python script that uses the Spotipy library to list all the song titles
 
 <h1>Usage</h1>
 <p>Run the script:</p>
-<pre><code>python main.py</code></pre>
+<pre><code>python Spotify Artist Song List.py</code></pre>
 <p>The script will print out the names of all the songs by the artist.</p>
 
 <h1>Contributing</h1>
